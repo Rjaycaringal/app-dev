@@ -1,2 +1,2 @@
-# >Solo Leveling
+Solo Leveling
 

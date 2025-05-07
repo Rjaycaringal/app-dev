@@ -1,8 +1,3 @@
-#Solo Leveling
-```
-{
-  "Author": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+# Solo Leveling
+Author 
+   : Chungo

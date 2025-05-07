@@ -1,3 +1,2 @@
-# Solo Leveling 
-# my favorite Anime
+# **Solo Leveling** 
 

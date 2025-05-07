@@ -4,6 +4,9 @@
    
 **Date Published**
       : *January 6 2024*
+
+**Last Aired**
+      : *March 23 2025*
       
 **Episodes**
 
@@ -18,5 +21,6 @@
 
     1.  Sung Jinwoo - The latest S Rank hunter
     2.  Hunter Cha Hae-in - latest S Rank famale hunter
-    3.  
+    3.  Yoo Jinho - D Rank Hunter, and friend with Sung Jinwoo
+    4.  
      

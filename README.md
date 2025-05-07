@@ -15,7 +15,7 @@
 
 
 **Main Characters**
-    :1. *Sung Jinwoo* - The latest S Rank hunter
+    1. *Sung Jinwoo* - The latest S Rank hunter
     2. *Hunter Cha Hae-in - latest S Rank famale hunter
     
      

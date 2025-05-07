@@ -1,3 +1,3 @@
 # Solo Leveling
-Author 
-   : Chungo
+**Author** 
+   : *Chungo*

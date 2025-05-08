@@ -11,10 +11,12 @@
 **Episodes**
 
   **Season 1** 
+  
   **Title : Solo leveling**
       :  *12 Episodes*
       
  **Season 2**
+ 
  **Title : Arise from shadow**
       :  *13 Episodes*
 

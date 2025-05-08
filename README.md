@@ -12,13 +12,25 @@
 
   **Season 1** 
   
-  **Title :**==Solo leveling==
+  **Title :Solo leveling**
       :  *12 Episodes*
       
  **Season 2**
  
- **Title :**==Arise from shadow==
+ **Title :Arise from shadow**
       :  *13 Episodes*
+
+   
+  <dt>Season 1</dt>
+  <dd>In a world where mysterious portals known as "Gates" connect to other dimensions filled with deadly monsters, certain humans awaken supernatural abilities, becoming "Hunters" to combat these threats. The story follows Sung Jinwoo, an E-Rank Hunter dubbed "the weakest weapon of humanity. During a perilous D-Rank dungeon raid, Jinwoo's party encounters a hidden double dungeon filled with lethal trials. Jinwoo sacrifices himself to save his comrades and, on the brink of death, is chosen by a mysterious program called the "System," granting him the unique ability to level up—a feat unheard of among Hunters. </dd>
+  <dt>Season 2</dt>
+  <dd>Solo Leveling Season 2 picks up with Sung Jinwoo fully embracing his role as the Shadow Monarch. Having broken free from the limitations of ordinary Hunters, he continues to grow exponentially stronger, unlocking new abilities and uncovering deeper mysteries about the dungeons and the true nature of his powers.
+The season begins with the intense Red Gate Arc, where Jinwoo is trapped in a perilous dungeon with a group of low-level Hunters. He must protect his team without revealing the full extent of his abilities, showcasing his cunning and strategic thinking. Following this, the Demon Castle Arc sees him battling through a formidable dungeon in search of the Elixir of Life, a vital item needed to cure his mother’s long-term illness. This arc tests his strength and resolve as he faces powerful foes and pushes his abilities to their limits.
+
+One of the major highlights of the season is the Jeju Island Arc, where Jinwoo joins a joint operation between Korean and Japanese S-Rank Hunters to reclaim the monster-infested Jeju Island. Here, he confronts the terrifying Ant King in a high-stakes battle, dramatically expanding his shadow army and solidifying his reputation as one of the world’s strongest Hunters.
+Amidst these intense battles, Jinwoo’s personal life takes a dramatic turn with the reappearance of his father, Sung Il-hwan, who had mysteriously disappeared a decade earlier. His father’s return reveals critical secrets about the larger cosmic conflict involving powerful beings known as the Rulers and Monarchs, hinting at the grand scale of the battles yet to come.
+As the season progresses, Jinwoo continues to grow more powerful, mastering his abilities as the Shadow Monarch and assembling a formidable army of shadows, setting the stage for even greater confrontations in the chapters ahead. </dd>
+
 
 **Main Characters**
 

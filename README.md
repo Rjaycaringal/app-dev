@@ -32,4 +32,6 @@
 
     1.Antares - The main villain or final antagonist of the series Solo Leveling is Antares, the king of Dragons and the Monarch of Destruction. He is the strongest among all of the monarchs
 
+**For More Info**
 
+[Solo Leveling](https://solo-leveling.fandom.com/wiki/Solo_Leveling_Wiki)
